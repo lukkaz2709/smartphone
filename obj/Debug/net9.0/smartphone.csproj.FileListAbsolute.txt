@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\bin\Debug\net9.0\smartphone.exe
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\bin\Debug\net9.0\smartphone.deps.json
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\bin\Debug\net9.0\smartphone.runtimeconfig.json
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\bin\Debug\net9.0\smartphone.dll
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\bin\Debug\net9.0\smartphone.pdb
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.AssemblyInfo.cs
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.sourcelink.json
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.dll
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\refint\smartphone.dll
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.pdb
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\smartphone.genruntimeconfig.cache
+C:\Users\user\Downloads\Lucas\cursos-lucas-2025\ProjetoSmartphone\smartphone\obj\Debug\net9.0\ref\smartphone.dll
